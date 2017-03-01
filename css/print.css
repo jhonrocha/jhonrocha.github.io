@@ -5,6 +5,15 @@
 		-webkit-print-color-adjust: exact; 
 	}
 
+	a[href]:after {
+		content: inherit;
+	}
+	abbr[title]:after {
+		content: inherit;
+	}
+
+	.break { page-break-before: always; }
+	
 	.panel-primary {
 		border-color: #000;
 	}
