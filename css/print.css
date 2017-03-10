@@ -6,16 +6,21 @@
 	}
 
 	a[href]:after {
-		content: inherit;
+		content: none;
 	}
 	abbr[title]:after {
-		content: inherit;
+		content: none;
 	}
 
-	.break { page-break-before: always; }
+	.break-before { page-break-before: always; }
+	.break-after { page-break-after: always; }
 	
+	.panel-group {
+		border: 1px solid black;
+    border-radius: 4px
+	}
 	.panel-primary {
-		border-color: #000;
+		border-color: transparent;
 	}
 
 	.panel-primary>.panel-heading {
