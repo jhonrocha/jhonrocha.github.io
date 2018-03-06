@@ -1,0 +1,31 @@
+@media print {
+	*,
+	*:before,
+	*:after {
+		-webkit-print-color-adjust: exact; 
+	}
+
+	a[href]:after {
+		content: none;
+	}
+	abbr[title]:after {
+		content: none;
+	}
+
+	.break-before { page-break-before: always; }
+	.break-after { page-break-after: always; }
+	
+	.panel-group {
+		border: 1px solid black;
+    border-radius: 4px
+	}
+	.panel-primary {
+		border-color: transparent;
+	}
+
+	.panel-primary>.panel-heading {
+		/*color: #000;*/
+		background-color: #ebebeb !important;
+		text-align: center;
+	}
+}
