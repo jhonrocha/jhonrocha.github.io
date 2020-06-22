@@ -5,7 +5,12 @@ subtitle:
 - Software Engineer
 geometry:
 - margin=2cm
-header-includes: "header-include.tex"
+header-includes:
+#- \input{header-include.tex}
+- \let\OldRule\rule
+- \renewcommand{\rule}[2]{\OldRule{\linewidth}{#2}}
+- \usepackage{titling}
+ \setlength{\droptitle}{-6em} 
 include-before:
 - \vspace*{-6em} 
 ---
@@ -51,13 +56,13 @@ application delivery.
 
 ### Software Engineer
 
-- *BairesDev*
+- [*BairesDev*](http://bairesdev.com/)
 - *Dec 2018 – Present*
 
 
 ### Systems Analist
 
-- *Metrópoles Mídia e Comunicação*
+- [*Metrópoles Mídia e Comunicação*](https://www.metropoles.com/)
 - *Feb 2018 - Nov 2018*
 
 Development and maintenance of a news communication systems. Major concerns were
@@ -70,7 +75,7 @@ high availability, consistent quality and speed to final consumer.
 
 ### Full Stack Developer
 
-- *Moringa Digital*
+- [*Moringa Digital*](http://www.moringadigital.com.br/)
 - *Feb 2016 - Jan 2018*
 
 Acting in the development of hybrid applications for Android and iOS,
@@ -85,7 +90,7 @@ implementation of web systems and creation and maintenance of websites and APIs.
 
 ### Member (Academic Team) at Robot Soccer Team
 
-- *UnBeatables: UnB humanoid robot soccer team*
+- [*UnBeatables: UnB humanoid robot soccer team*](https://www.facebook.com/unbeatablesbr/)
 - *Sep 2014 – Aug 2016*
 
 I was responsible for the network area, handling communication between robot-to-robot
@@ -112,7 +117,7 @@ Prizes:
 
 ### Researcher (Academic Research)
 
-- University of Brasilia (UnB)
+- [*University of Brasilia (UnB)*](http://unb.br/)
 - Jan 2014 - Dec 2016
 
 Development and application of Fuzzy controllers, based on the Takagi-Sugeno
@@ -131,7 +136,7 @@ Technologies used:
 
 ### Mechatronics, Robotics and Control and Automation Engineering
 
-- University of Brasilia
+- [*University of Brasilia (UnB)*](http://unb.br/)
 - Graduation 2011 – 2016
 
 The course brings together knowledge in Mechanical, Electrical, Electronics and
