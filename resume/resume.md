@@ -1,44 +1,47 @@
 ---
-title:
-- Jhonantans Rocha
-subtitle:
-- Software Engineer
+title: 'Jhonantans Rocha'
+subtitle: 'Software Engineer'
 geometry:
 - margin=2cm
+colorlinks: true
 header-includes:
-#- \input{header-include.tex}
 - \let\OldRule\rule
 - \renewcommand{\rule}[2]{\OldRule{\linewidth}{#2}}
 - \usepackage{titling}
- \setlength{\droptitle}{-6em} 
+- \setlength{\droptitle}{-6em} 
 include-before:
 - \vspace*{-6em} 
 ---
 
 # About
 
-I am a Software Engineer, Automation and Control Engineer (Mechatronics) and a
-linux and computer science enthusiast.
+I am a Software Engineer and a Automation and Control(Mechatronics) Engineer.
+cesides that I am a big entusiast of Open-Source and Linux systems.
 
 During my graduation, I worked on researching projects with Rockwell PLCs,
-designing and implementing control algorithms in Structured Text, Ladder, and
-Function Blocks.
+designing and implementing automation and control algorithms in Structured Text,
+Ladder, and Function Blocks.
 
 In 2011 I started working with low level languages, notably C/C ++ and Assembly.
-Since then, I have dedicated myself to improving my knowledge of languages ​and
+Since then, I have dedicated myself to improving my knowledge of languages and
 paradigms, incorporating new concepts such as OOP and Real Time Programming,
 always aiming for code quality and commitment to best-practices.
 
 In 2014, I joined the football team of humanoid robots UnBeatables, representing
 my university in the robotics competition, Robocup.
 
-From 2016 to 2017 I am a developer on the team of Moringa Digital, one of the largest
-online advertising companies and web systems in Brasilia. ThereI have focused on
-mobile development using the latest hybrid tools such as Ionic 2, Cordova and IntelXDK.
-
-As a fullstack developer, my responsibilities range from database planning to
+From 2016 to 2018 I was part am a developer on the team of Moringa Digital, one
+of the largest online advertising companies and web systems in Brasilia. There
+I was fullstack developer, my responsibilities ranging from database planning to
 user interface implementation, server programming, API development and mobile
 application delivery.
+
+During 2018 I worked on Metrópoles, a major online news platform in Brasil. The
+critical point of the role was maintenance and high availability of a php(wordpress)
+structure and its APIs.
+
+Since ending 2018 I have been part of BairesDev teams, focusing on Node APIs and
+its AWS structure.
 
 ## Contact
 
@@ -48,7 +51,7 @@ application delivery.
 - Email: [jhmrocha@gmail.com](mailto: jhmrocha@gmail.com)
 - Fone: [+55 62 981089953](tel:+5562981089953)
 - Linkedin: [linkedin.com/in/jhonantans-moraes-rocha-949051105/](https://www.linkedin.com/in/jhonantans-moraes-rocha-949051105/)
-- Website: [jhonrocha.com](https://jhonrocha.com)
+- Website: [jhonrocha.github.com](https://jhonrocha.github.com)
 
 ## Experience
 
@@ -59,6 +62,15 @@ application delivery.
 - [*BairesDev*](http://bairesdev.com/)
 - *Dec 2018 – Present*
 
+As a core member of the services team I have been working on the development of
+solutions to the client. My major focus is to supoort and evolve a Node environment
+completely powered by AWS. Part of the structure runs as monolitih and part as
+microservices, using Lambdas, SNS and SQS. It is also part of the work to develop
+some React tools for internal usage.
+
+- Back-End: Node (Sails.js, Express)
+- Operation: Amazon AWS (EC2, S3, Lambda, SNS, SQS, Elasticache, RDS)
+- Front-End: React
 
 ### Systems Analist
 
@@ -151,6 +163,22 @@ for industrial and non-industrial environments. The points specially studied are
 - Electrical Engenineering
 - Electronics
 
+## Skills & Proficiency
+
+---
+
+- Node.js (Sails.js, Express) => **5 Years**
+- Javascript (ES5, ES6, TypeScript) => **5 Years**
+- Amazon Web Services (AWS) => **3 Years**
+- Python (System Programming) => **3 Years**
+- C/C++ (System Programming) => **3 Years**
+- Angular & Ionic & Hybrid Mobile Apps (Cordova) => **3 Years**
+- HTML5 & CSS => **3 Years**
+- PHP & Wordpress => **1 Year**
+- .NET & ASP & VBA => **2 Years**
+- PLC: Ladder, Structured Text, Function Blocks => **1 Year**
+- RUST: **Learning**
+
 ## Languages
 
 ---
@@ -163,6 +191,7 @@ for industrial and non-industrial environments. The points specially studied are
 
 ---
 
-- Software Development
+- Linux
+- Open-Source Projects
 - Machine Learning
-- Financial Programming
+- Algorithmic Trading
