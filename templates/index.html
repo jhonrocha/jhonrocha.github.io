@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block content %}
+{{ section.content | safe }}
+<ul>
+  {% for page in section.pages %}
+  <article class="post-list">
+    <header> 
+      <h1>
+        <a href="{{ page.permalink }}">{{ page.title }}</a>
+      </h1>
+    </header>
+
+    {% if page.summary %}
+    <div class="content post-summary">
+      {{ page.summary | markdown | safe }}
+    </div>
+    {% endif %}
+  </article>
+  {% endfor %}
+</ul>
+<p>Check the<a href="/blog/">blog</a></p>
+{% endblock content %}
