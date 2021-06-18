@@ -1,5 +1,6 @@
 # Build and Release Folders
 public/
+dist/
 bin/
 bin-debug/
 bin-release/

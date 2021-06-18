@@ -28,6 +28,9 @@ During 2018 I worked on Metrópoles, a major online news platform in Brasil. The
 critical point of the role was maintenance and high availability of a php(wordpress)
 structure and its APIs.
 
+Since ending 2018 I have been part of BairesDev teams, focusing on Node APIs and
+its AWS structure.
+
 <!-- more -->
 
 ## Contact
