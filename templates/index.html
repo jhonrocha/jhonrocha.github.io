@@ -6,21 +6,19 @@
   {{ section.content | safe }}
 </div>
 {% endif %}
-<ul>
-  {% for page in section.pages %}
-  <article class="post-list border-top">
-    <header> 
-      <h1>
-        <a href="{{ page.permalink }}">{{ page.title }}</a>
-      </h1>
-    </header>
+{% for page in section.pages %}
+<article class="post-list border-top py-3">
+  <header> 
+    <h3>
+      <a href="{{ page.permalink }}">{{ page.title }}</a>
+    </h3>
+  </header>
 
-    {% if page.summary %}
-    <div class="content post-summary">
-      {{ page.summary | markdown | safe }}
-    </div>
-    {% endif %}
-  </article>
-  {% endfor %}
-</ul>
+  {% if page.summary %}
+  <div class="content post-summary">
+    {{ page.summary | markdown | safe }}
+  </div>
+  {% endif %}
+</article>
+{% endfor %}
 {% endblock content %}

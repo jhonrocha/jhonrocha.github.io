@@ -3,33 +3,9 @@ title = "Resume"
 date = 2021-06-17
 +++
 
-I am a Software Engineer and a Automation and Control(Mechatronics) Engineer.
-Besides that I am a big entusiast of Open-Source and Linux systems.
-
-During my graduation, I worked on researching projects with Rockwell PLCs,
-designing and implementing automation and control algorithms in Structured Text,
-Ladder, and Function Blocks.
-
-In 2011 I started working with low level languages, notably C/C ++ and Assembly.
-Since then, I have dedicated myself to improving my knowledge of languages and
-paradigms, incorporating new concepts such as OOP and Real Time Programming,
-always aiming for code quality and commitment to best-practices.
-
-In 2014, I joined the football team of humanoid robots UnBeatables, representing
-my university in the robotics competition, Robocup.
-
-From 2016 to 2018 I was part am a developer on the team of Moringa Digital, one
-of the largest online advertising companies and web systems in Brasilia. There
-I was fullstack developer, my responsibilities ranging from database planning to
-user interface implementation, server programming, API development and mobile
-application delivery.
-
-During 2018 I worked on Metrópoles, a major online news platform in Brasil. The
-critical point of the role was maintenance and high availability of a php(wordpress)
-structure and its APIs.
-
-Since ending 2018 I have been part of BairesDev teams, focusing on Node APIs and
-its AWS structure.
+My name is Jhonantans Moraes Rocha, I have been working as a Fullstack Developer since 2016 and as Tech Lead since 2020.
+I've been implementing creative and efficient solutions on Node and AWS for 5 years now, and there's still a lot to learn on a daily basis.
+I've also been working on personal projects with Python and Rust, two fascinating languages that interest me a lot.
 
 <!-- more -->
 
