@@ -1,5 +1,5 @@
 +++
-title = "Curriculo"
+title = "Currículo"
 date = 2021-06-16
 +++
 
