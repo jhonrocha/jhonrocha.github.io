@@ -4,11 +4,11 @@ run:
 build:
 	zola build
 
-publish: build
-	cd public
-	git add --all
-	git commit -m "Publishing"
-	git push origin gh-pages --force
+deploy: build
+	cd public && \
+	git add --all && \
+	git commit -m "Publishing" && \
+	git push origin gh-pages
 
 setup:
 	rm -rf public/
