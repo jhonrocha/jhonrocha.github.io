@@ -14,7 +14,7 @@ I've also been working on personal projects with Python and Rust, two fascinatin
 ---
 
 - Github: [github.com/jhonrocha](https://github.com/jhonrocha)
-- Email: [jhmrocha@gmail.com](mailto: jhmrocha@gmail.com)
+- Email: [jhmrocha@gmail.com](mailto:jhmrocha@gmail.com)
 - Fone: [+55 62 981089953](tel:+5562981089953)
 - Linkedin: [linkedin.com/in/jhonantans-moraes-rocha-949051105/](https://www.linkedin.com/in/jhonantans-moraes-rocha-949051105/)
 - Website: [jhonrocha.github.com](https://jhonrocha.github.com)
@@ -23,6 +23,13 @@ I've also been working on personal projects with Python and Rust, two fascinatin
 
 ---
 
+### Team Lead
+
+- [*BairesDev*](http://bairesdev.com/)
+- *Aug 2020 – Present*
+
+As a Team Lead I have taken owenership of delivery, maintenance and organization of activities of the services Back-End team.
+
 ### Software Engineer
 
 - [*BairesDev*](http://bairesdev.com/)
@@ -30,7 +37,7 @@ I've also been working on personal projects with Python and Rust, two fascinatin
 
 As a core member of the services team I have been working on the development of
 solutions to the client. My major focus is to supoort and evolve a Node environment
-completely powered by AWS. Part of the structure runs as monolitih and part as
+completely powered by AWS. Part of the structure runs as monolith and part as
 microservices, using Lambdas, SNS and SQS. It is also part of the work to develop
 some React tools for internal usage.
 
@@ -134,8 +141,8 @@ for industrial and non-industrial environments. The points specially studied are
 ---
 
 - Node.js (Sails.js, Express) => **5 Years**
-- Javascript (ES5, ES6, TypeScript) => **5 Years**
-- Amazon Web Services (AWS) => **3 Years**
+- Javascript (ES5, ES6) => **5 Years**
+- AWS (EC2, S3, SQS, SNS, Lambda) => **5 Years**
 - Python (System Programming) => **3 Years**
 - C/C++ (System Programming) => **3 Years**
 - Angular & Ionic & Hybrid Mobile Apps (Cordova) => **3 Years**
