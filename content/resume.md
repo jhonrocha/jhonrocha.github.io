@@ -28,7 +28,7 @@ I've also been working on personal projects with Python and Rust, two fascinatin
 - [*BairesDev*](http://bairesdev.com/)
 - *Aug 2020 – Present*
 
-As a Team Lead I have taken owenership of delivery, maintenance and organization of activities of the services Back-End team.
+As a leader I am responsible for helping the team's performance by managing tasks planning and assignments as well as ensuring code cohesion and efficiency.
 
 ### Software Engineer
 
