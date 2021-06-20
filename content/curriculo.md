@@ -167,5 +167,5 @@ for industrial and non-industrial environments. The points specially studied are
 - Github: [github.com/jhonrocha](https://github.com/jhonrocha)
 - Email: [jhmrocha@gmail.com](mailto:jhmrocha@gmail.com)
 - Fone: [+55 62 981089953](tel:+5562981089953)
-- Linkedin: [linkedin.com/in/jhonantans-moraes-rocha-949051105/](https://www.linkedin.com/in/jhonantans-moraes-rocha-949051105/)
+- Linkedin: [https://www.linkedin.com/in/jhonrocha](https://www.linkedin.com/in/jhonrocha)
 - Website: [jhonrocha.github.com](https://jhonrocha.github.com)
