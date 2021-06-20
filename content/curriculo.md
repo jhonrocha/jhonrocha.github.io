@@ -7,22 +7,22 @@ attach_path = "/curriculo.pdf"
 attach_name = "curriculo.pdf"
 +++
 
-Meu nome é Jhonantans Moraes Rocha, trabalho como Fullstack developer desde 2016 e como Tech Lead desde 2020.
+Meu nome é Jhonantans Moraes Rocha, trabalho como Fullstack developer desde 2016 e como Team Lead desde 2020.
 Venho implementando soluções criativas e eficientes em Node e AWS há 5 anos.
 Venho também trabalhando em projetos pessoas com Python e Rust, duas fascinantes linguagens que muito me interessam.
 
 <!-- more -->
 
-## Experience
+## Experiência
 
 ---
 
 ### Team Lead
 
 - [*BairesDev*](http://bairesdev.com/)
-- *Aug 2020 – Present*
+- *Agosto 2020 – Presente*
 
-As a leader I am responsible for helping the team's performance by managing tasks planning and assignments as well as ensuring code cohesion and efficiency.
+Como líder sou responsável por auxiliar o time a performar da melhor maneira possível através do gerenciamento de tarefas e planejamentos de longo prazo, assim como assegurando coesão e eficiência do código entregue.
 
 ### Software Engineer
 

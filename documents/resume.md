@@ -17,7 +17,7 @@ include-before:
 
 ---
 
-My name is Jhonantans Moraes Rocha, I have been working as a Fullstack Developer since 2016 and as Tech Lead since 2020.
+My name is Jhonantans Moraes Rocha, I have been working as a Fullstack Developer since 2016 and as Team Lead since 2020.
 I've been implementing creative and efficient solutions on Node and AWS for 5 years now, and there's still a lot to learn on a daily basis.
 I've also been working on personal projects with Python and Rust, two fascinating languages that interest me a lot.
 

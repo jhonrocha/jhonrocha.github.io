@@ -7,7 +7,7 @@ attach_path = "/resume.pdf"
 attach_name = "resume.pdf"
 +++
 
-My name is Jhonantans Moraes Rocha, I have been working as a Fullstack Developer since 2016 and as Tech Lead since 2020.
+My name is Jhonantans Moraes Rocha, I have been working as a Fullstack Developer since 2016 and as Team Lead since 2020.
 I've been implementing creative and efficient solutions on Node and AWS for 5 years now, and there's still a lot to learn on a daily basis.
 I've also been working on personal projects with Python and Rust, two fascinating languages that interest me a lot.
 
@@ -22,7 +22,7 @@ I've also been working on personal projects with Python and Rust, two fascinatin
 - [*BairesDev*](http://bairesdev.com/)
 - *Aug 2020 – Present*
 
-As a leader I am responsible for helping the team's performance by managing tasks planning and assignments as well as ensuring code cohesion and efficiency.
+As a leader I am responsible for helping the team's performance by managing tasks, planning and assignments as well as ensuring code cohesion and efficiency.
 
 ### Software Engineer
 
@@ -59,7 +59,7 @@ high availability, consistent quality and speed to final consumer.
 Acting in the development of hybrid applications for Android and iOS,
 implementation of web systems and creation and maintenance of websites and APIs.
 
-  - Back-End: ASP, Node.js and MySQL
+  - Back-End: ASP, Node and MySQL
   - Front-End: HTML5/Javascript
   - Hybrid Application Tools: Intel XDK, Cordova
   - Frameworks: Angular 1 & 2, Ionic 1 & 2
@@ -131,7 +131,7 @@ for industrial and non-industrial environments. The points specially studied are
 
 ---
 
-- Node.js (Sails.js, Express) => **5 Years**
+- Node (Sails.js, Express) => **5 Years**
 - Javascript (ES5, ES6) => **5 Years**
 - AWS (EC2, S3, SQS, SNS, Lambda) => **5 Years**
 - Python (System Programming) => **3 Years**

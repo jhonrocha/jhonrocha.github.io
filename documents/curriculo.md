@@ -17,19 +17,9 @@ include-before:
 
 ---
 
-Meu nome é Jhonantans Moraes Rocha, trabalho como Fullstack developer desde 2016 e como Tech Lead desde 2020.
+Meu nome é Jhonantans Moraes Rocha, trabalho como Fullstack developer desde 2016 e como Team Lead desde 2020.
 Venho implementando soluções criativas e eficientes em Node e AWS há 5 anos.
 Venho também trabalhando em projetos pessoas com Python e Rust, duas fascinantes linguagens que muito me interessam.
-
-## Contact
-
----
-
-- Github: [github.com/jhonrocha](https://github.com/jhonrocha)
-- Email: [jhmrocha@gmail.com](mailto:jhmrocha@gmail.com)
-- Fone: [+55 62 981089953](tel:+5562981089953)
-- Linkedin: [linkedin.com/in/jhonantans-moraes-rocha-949051105/](https://www.linkedin.com/in/jhonantans-moraes-rocha-949051105/)
-- Website: [jhonrocha.github.com](https://jhonrocha.github.com)
 
 ## Experience
 
@@ -68,7 +58,6 @@ high availability, consistent quality and speed to final consumer.
 - Front-End: Bootstrap, Ionic 2, Angular 4, Vue.js, Pug, Stylus
 - Back-End: Wordpress, PHP and MySQL
 - Operation: Amazon AWS (EC2, S3, Lambda, RDS)
-- Code Integration: Git
 
 ### Full Stack Developer
 
@@ -78,10 +67,8 @@ high availability, consistent quality and speed to final consumer.
 Acting in the development of hybrid applications for Android and iOS,
 implementation of web systems and creation and maintenance of websites and APIs.
 
-- System Development:
   - Back-End: ASP, Node.js and MySQL
   - Front-End: HTML5/Javascript
-- Mobile Applications Development:
   - Hybrid Application Tools: Intel XDK, Cordova
   - Frameworks: Angular 1 & 2, Ionic 1 & 2
 
@@ -180,3 +167,13 @@ for industrial and non-industrial environments. The points specially studied are
 - Open-Source Projects
 - Machine Learning
 - Algorithmic Trading
+
+## Contact
+
+---
+
+- Github: [github.com/jhonrocha](https://github.com/jhonrocha)
+- Email: [jhmrocha@gmail.com](mailto:jhmrocha@gmail.com)
+- Fone: [+55 62 981089953](tel:+5562981089953)
+- Linkedin: [linkedin.com/in/jhonantans-moraes-rocha-949051105/](https://www.linkedin.com/in/jhonantans-moraes-rocha-949051105/)
+- Website: [jhonrocha.github.com](https://jhonrocha.github.com)
