@@ -1,15 +1,32 @@
-+++
-title = "Resume"
-date = 2021-06-17
-[extra]
-class = "resume"
-+++
+---
+title: 'Jhonantans Rocha'
+subtitle: 'Software Engineer'
+geometry:
+- margin=2cm
+colorlinks: true
+header-includes:
+- \let\OldRule\rule
+- \renewcommand{\rule}[2]{\OldRule{\linewidth}{#2}}
+- \usepackage{titling}
+- \setlength{\droptitle}{-6em} 
+include-before:
+- \vspace*{-6em} 
+---
 
-My name is Jhonantans Moraes Rocha, I have been working as a Fullstack Developer since 2016 and as Tech Lead since 2020.
-I've been implementing creative and efficient solutions on Node and AWS for 5 years now, and there's still a lot to learn on a daily basis.
-I've also been working on personal projects with Python and Rust, two fascinating languages that interest me a lot.
+# About
+Meu nome é Jhonantans Moraes Rocha, trabalho como Fullstack developer desde 2016 e como Tech Lead desde 2020.
+Venho implementando soluções criativas e eficientes em Node e AWS há 5 anos.
+Venho também trabalhando em projetos pessoas com Python e Rust, duas fascinantes linguagens que muito me interessam.
 
-<!-- more -->
+## Contact
+
+---
+
+- Github: [github.com/jhonrocha](https://github.com/jhonrocha)
+- Email: [jhmrocha@gmail.com](mailto:jhmrocha@gmail.com)
+- Fone: [+55 62 981089953](tel:+5562981089953)
+- Linkedin: [linkedin.com/in/jhonantans-moraes-rocha-949051105/](https://www.linkedin.com/in/jhonantans-moraes-rocha-949051105/)
+- Website: [jhonrocha.github.com](https://jhonrocha.github.com)
 
 ## Experience
 
@@ -48,6 +65,7 @@ high availability, consistent quality and speed to final consumer.
 - Front-End: Bootstrap, Ionic 2, Angular 4, Vue.js, Pug, Stylus
 - Back-End: Wordpress, PHP and MySQL
 - Operation: Amazon AWS (EC2, S3, Lambda, RDS)
+- Code Integration: Git
 
 ### Full Stack Developer
 
@@ -57,8 +75,10 @@ high availability, consistent quality and speed to final consumer.
 Acting in the development of hybrid applications for Android and iOS,
 implementation of web systems and creation and maintenance of websites and APIs.
 
+- System Development:
   - Back-End: ASP, Node.js and MySQL
   - Front-End: HTML5/Javascript
+- Mobile Applications Development:
   - Hybrid Application Tools: Intel XDK, Cordova
   - Frameworks: Angular 1 & 2, Ionic 1 & 2
 
@@ -157,13 +177,3 @@ for industrial and non-industrial environments. The points specially studied are
 - Open-Source Projects
 - Machine Learning
 - Algorithmic Trading
-
-## Contact
-
----
-
-- Github: [github.com/jhonrocha](https://github.com/jhonrocha)
-- Email: [jhmrocha@gmail.com](mailto:jhmrocha@gmail.com)
-- Fone: [+55 62 981089953](tel:+5562981089953)
-- Linkedin: [linkedin.com/in/jhonantans-moraes-rocha-949051105/](https://www.linkedin.com/in/jhonantans-moraes-rocha-949051105/)
-- Website: [jhonrocha.github.com](https://jhonrocha.github.com)

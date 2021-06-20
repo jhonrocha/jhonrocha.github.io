@@ -1,8 +1,14 @@
 {% extends "base.html" %}
 
 {% block content %}
-<h1 class="title">
-  {{ page.title }}
-</h1>
-{{ page.content | safe }}
+{% if page.extra.class %}
+<div class={{ page.extra.class }}>
+{% else %}
+<div>
+{% endif %}
+  <h1 class="title">
+    {{ page.title }}
+  </h1>
+  {{ page.content | safe }}
+</div>
 {% endblock content %}

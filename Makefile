@@ -16,3 +16,7 @@ setup:
 	rm -rf public/ dist/
 	git worktree add dist gh-pages
 
+pdf:
+	cd documents && \
+	pandoc resume.md -o resume.pdf && \
+	pandoc curriculo.md -o curriculo.pdf

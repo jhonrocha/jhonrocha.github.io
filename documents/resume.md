@@ -13,49 +13,24 @@ include-before:
 - \vspace*{-6em} 
 ---
 
-# About
-
-I am a Software Engineer and a Automation and Control(Mechatronics) Engineer.
-cesides that I am a big entusiast of Open-Source and Linux systems.
-
-During my graduation, I worked on researching projects with Rockwell PLCs,
-designing and implementing automation and control algorithms in Structured Text,
-Ladder, and Function Blocks.
-
-In 2011 I started working with low level languages, notably C/C ++ and Assembly.
-Since then, I have dedicated myself to improving my knowledge of languages and
-paradigms, incorporating new concepts such as OOP and Real Time Programming,
-always aiming for code quality and commitment to best-practices.
-
-In 2014, I joined the football team of humanoid robots UnBeatables, representing
-my university in the robotics competition, Robocup.
-
-From 2016 to 2018 I was part am a developer on the team of Moringa Digital, one
-of the largest online advertising companies and web systems in Brasilia. There
-I was fullstack developer, my responsibilities ranging from database planning to
-user interface implementation, server programming, API development and mobile
-application delivery.
-
-During 2018 I worked on Metrópoles, a major online news platform in Brasil. The
-critical point of the role was maintenance and high availability of a php(wordpress)
-structure and its APIs.
-
-Since ending 2018 I have been part of BairesDev teams, focusing on Node APIs and
-its AWS structure.
-
-## Contact
+# About me
 
 ---
 
-- Github: [github.com/jhonrocha](https://github.com/jhonrocha)
-- Email: [jhmrocha@gmail.com](mailto: jhmrocha@gmail.com)
-- Fone: [+55 62 981089953](tel:+5562981089953)
-- Linkedin: [linkedin.com/in/jhonantans-moraes-rocha-949051105/](https://www.linkedin.com/in/jhonantans-moraes-rocha-949051105/)
-- Website: [jhonrocha.github.com](https://jhonrocha.github.com)
+My name is Jhonantans Moraes Rocha, I have been working as a Fullstack Developer since 2016 and as Tech Lead since 2020.
+I've been implementing creative and efficient solutions on Node and AWS for 5 years now, and there's still a lot to learn on a daily basis.
+I've also been working on personal projects with Python and Rust, two fascinating languages that interest me a lot.
 
 ## Experience
 
 ---
+
+### Team Lead
+
+- [*BairesDev*](http://bairesdev.com/)
+- *Aug 2020 – Present*
+
+As a leader I am responsible for helping the team's performance by managing tasks planning and assignments as well as ensuring code cohesion and efficiency.
 
 ### Software Engineer
 
@@ -64,7 +39,7 @@ its AWS structure.
 
 As a core member of the services team I have been working on the development of
 solutions to the client. My major focus is to supoort and evolve a Node environment
-completely powered by AWS. Part of the structure runs as monolitih and part as
+completely powered by AWS. Part of the structure runs as monolith and part as
 microservices, using Lambdas, SNS and SQS. It is also part of the work to develop
 some React tools for internal usage.
 
@@ -83,7 +58,6 @@ high availability, consistent quality and speed to final consumer.
 - Front-End: Bootstrap, Ionic 2, Angular 4, Vue.js, Pug, Stylus
 - Back-End: Wordpress, PHP and MySQL
 - Operation: Amazon AWS (EC2, S3, Lambda, RDS)
-- Code Integration: Git
 
 ### Full Stack Developer
 
@@ -93,10 +67,8 @@ high availability, consistent quality and speed to final consumer.
 Acting in the development of hybrid applications for Android and iOS,
 implementation of web systems and creation and maintenance of websites and APIs.
 
-- System Development:
   - Back-End: ASP, Node.js and MySQL
   - Front-End: HTML5/Javascript
-- Mobile Applications Development:
   - Hybrid Application Tools: Intel XDK, Cordova
   - Frameworks: Angular 1 & 2, Ionic 1 & 2
 
@@ -168,8 +140,8 @@ for industrial and non-industrial environments. The points specially studied are
 ---
 
 - Node.js (Sails.js, Express) => **5 Years**
-- Javascript (ES5, ES6, TypeScript) => **5 Years**
-- Amazon Web Services (AWS) => **3 Years**
+- Javascript (ES5, ES6) => **5 Years**
+- AWS (EC2, S3, SQS, SNS, Lambda) => **5 Years**
 - Python (System Programming) => **3 Years**
 - C/C++ (System Programming) => **3 Years**
 - Angular & Ionic & Hybrid Mobile Apps (Cordova) => **3 Years**
@@ -195,3 +167,13 @@ for industrial and non-industrial environments. The points specially studied are
 - Open-Source Projects
 - Machine Learning
 - Algorithmic Trading
+
+## Contact
+
+---
+
+- Github: [github.com/jhonrocha](https://github.com/jhonrocha)
+- Email: [jhmrocha@gmail.com](mailto:jhmrocha@gmail.com)
+- Fone: [+55 62 981089953](tel:+5562981089953)
+- Linkedin: [linkedin.com/in/jhonantans-moraes-rocha-949051105/](https://www.linkedin.com/in/jhonantans-moraes-rocha-949051105/)
+- Website: [jhonrocha.github.com](https://jhonrocha.github.com)
