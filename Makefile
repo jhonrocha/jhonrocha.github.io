@@ -19,4 +19,5 @@ setup:
 pdf:
 	cd documents && \
 	pandoc resume.md -o resume.pdf && \
-	pandoc curriculo.md -o curriculo.pdf
+	pandoc curriculo.md -o curriculo.pdf && \
+	cp *.pdf ../static
