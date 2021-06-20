@@ -13,7 +13,10 @@ include-before:
 - \vspace*{-6em} 
 ---
 
-# About
+# About me
+
+---
+
 Meu nome é Jhonantans Moraes Rocha, trabalho como Fullstack developer desde 2016 e como Tech Lead desde 2020.
 Venho implementando soluções criativas e eficientes em Node e AWS há 5 anos.
 Venho também trabalhando em projetos pessoas com Python e Rust, duas fascinantes linguagens que muito me interessam.

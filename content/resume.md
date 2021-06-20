@@ -3,6 +3,8 @@ title = "Resume"
 date = 2021-06-17
 [extra]
 class = "resume"
+attach_path = "/resume.pdf"
+attach_name = "resume.pdf"
 +++
 
 My name is Jhonantans Moraes Rocha, I have been working as a Fullstack Developer since 2016 and as Tech Lead since 2020.

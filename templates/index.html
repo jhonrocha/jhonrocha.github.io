@@ -17,8 +17,11 @@
   {% if page.summary %}
   <div class="content post-summary">
     {{ page.summary | markdown | safe }}
+    {% endif %}
+    {% if page.extra and page.extra.attach_path %}
+    <a href={{ page.extra.attach_path }}>{{ page.extra.attach_name }}</a>
+    {% endif %}
   </div>
-  {% endif %}
 </article>
 {% endfor %}
 {% endblock content %}

@@ -1,6 +1,10 @@
 +++
 title = "Currículo"
 date = 2021-06-16
+[extra]
+class = "resume"
+attach_path = "/curriculo.pdf"
+attach_name = "curriculo.pdf"
 +++
 
 Meu nome é Jhonantans Moraes Rocha, trabalho como Fullstack developer desde 2016 e como Tech Lead desde 2020.
@@ -9,19 +13,16 @@ Venho também trabalhando em projetos pessoas com Python e Rust, duas fascinante
 
 <!-- more -->
 
-## Contact
-
----
-
-- Github: [github.com/jhonrocha](https://github.com/jhonrocha)
-- Email: [jhmrocha@gmail.com](mailto: jhmrocha@gmail.com)
-- Fone: [+55 62 981089953](tel:+5562981089953)
-- Linkedin: [linkedin.com/in/jhonantans-moraes-rocha-949051105/](https://www.linkedin.com/in/jhonantans-moraes-rocha-949051105/)
-- Website: [jhonrocha.github.com](https://jhonrocha.github.com)
-
 ## Experience
 
 ---
+
+### Team Lead
+
+- [*BairesDev*](http://bairesdev.com/)
+- *Aug 2020 – Present*
+
+As a leader I am responsible for helping the team's performance by managing tasks planning and assignments as well as ensuring code cohesion and efficiency.
 
 ### Software Engineer
 
@@ -30,7 +31,7 @@ Venho também trabalhando em projetos pessoas com Python e Rust, duas fascinante
 
 As a core member of the services team I have been working on the development of
 solutions to the client. My major focus is to supoort and evolve a Node environment
-completely powered by AWS. Part of the structure runs as monolitih and part as
+completely powered by AWS. Part of the structure runs as monolith and part as
 microservices, using Lambdas, SNS and SQS. It is also part of the work to develop
 some React tools for internal usage.
 
@@ -49,7 +50,6 @@ high availability, consistent quality and speed to final consumer.
 - Front-End: Bootstrap, Ionic 2, Angular 4, Vue.js, Pug, Stylus
 - Back-End: Wordpress, PHP and MySQL
 - Operation: Amazon AWS (EC2, S3, Lambda, RDS)
-- Code Integration: Git
 
 ### Full Stack Developer
 
@@ -59,10 +59,8 @@ high availability, consistent quality and speed to final consumer.
 Acting in the development of hybrid applications for Android and iOS,
 implementation of web systems and creation and maintenance of websites and APIs.
 
-- System Development:
   - Back-End: ASP, Node.js and MySQL
   - Front-End: HTML5/Javascript
-- Mobile Applications Development:
   - Hybrid Application Tools: Intel XDK, Cordova
   - Frameworks: Angular 1 & 2, Ionic 1 & 2
 
@@ -134,8 +132,8 @@ for industrial and non-industrial environments. The points specially studied are
 ---
 
 - Node.js (Sails.js, Express) => **5 Years**
-- Javascript (ES5, ES6, TypeScript) => **5 Years**
-- Amazon Web Services (AWS) => **3 Years**
+- Javascript (ES5, ES6) => **5 Years**
+- AWS (EC2, S3, SQS, SNS, Lambda) => **5 Years**
 - Python (System Programming) => **3 Years**
 - C/C++ (System Programming) => **3 Years**
 - Angular & Ionic & Hybrid Mobile Apps (Cordova) => **3 Years**
@@ -161,3 +159,13 @@ for industrial and non-industrial environments. The points specially studied are
 - Open-Source Projects
 - Machine Learning
 - Algorithmic Trading
+
+## Contact
+
+---
+
+- Github: [github.com/jhonrocha](https://github.com/jhonrocha)
+- Email: [jhmrocha@gmail.com](mailto:jhmrocha@gmail.com)
+- Fone: [+55 62 981089953](tel:+5562981089953)
+- Linkedin: [linkedin.com/in/jhonantans-moraes-rocha-949051105/](https://www.linkedin.com/in/jhonantans-moraes-rocha-949051105/)
+- Website: [jhonrocha.github.com](https://jhonrocha.github.com)
