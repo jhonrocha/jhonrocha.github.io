@@ -1,3 +1,6 @@
+$fg-color: #fff;
+$bg-color: #414245;
+
 html {
   position: relative;
   min-height: 100%;
@@ -5,12 +8,12 @@ html {
 
 body {
   margin-bottom: 70px; /* Margin bottom by footer height */
-  color: #fff;
-  background-color: #414245;
+  color: $fg-color;
+  background-color: $bg-color;
 }
 
-a {
-  color: white;
+a, a:hover {
+  color: $fg-color;
 }
 
 .resume h3 {
