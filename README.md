@@ -1,6 +1,20 @@
 # Hello!
 I am Jhonantans Moraes Rocha, a brazilian developer who is always interested in learning and sharping my skills.
 
+# Local Setup
+To setup this project follow this steps:
+- Clone the repository
+- Install [Zola](https://www.getzola.org/) 
+- Install [make](https://www.gnu.org/software/make/)
+- Run:
+```
+make run
+```
+- Check the results on the endpoint provided:
+```
+http://127.0.0.1:1111/
+```
+
 # About the theme used:
 Free Bootstrap Resume/CV Template for developers
 

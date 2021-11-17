@@ -1,5 +1,9 @@
-$fg-color: #fff;
-$bg-color: #414245;
+// White Version
+$fg-color: #181A18;
+$bg-color: #FBFAF5;
+// Grey Version
+// $fg-color: #fff;
+// $bg-color: #414245;
 
 html {
   position: relative;
@@ -14,6 +18,15 @@ body {
 
 a, a:hover {
   color: $fg-color;
+}
+
+.btn-contrast {
+    color: $fg-color;
+    border-color: $fg-color;
+}
+
+.lang-btn {
+  width: 24px;
 }
 
 .resume h3 {
