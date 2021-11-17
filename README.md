@@ -14,6 +14,14 @@ make run
 ```
 http://127.0.0.1:1111/
 ```
+- To deploy, first run the setup:
+```
+make setup
+```
+- Then run the deploy:
+```
+make deploy
+```
 
 # About the theme used:
 Free Bootstrap Resume/CV Template for developers
