@@ -25,17 +25,25 @@ I've also been working on personal projects with Python and Rust, two fascinatin
 
 ---
 
+### Software Engineer
+
+- [*Nearform*](http://bairesdev.com/)
+- *Jan 2022 – Present*
+
+As a senior Software Engineer I am responsible for building, deploying and mantaining scalable projects for diverse clients.
+Some of the skills most used were Node.js, AWS, Azure.
+
 ### Team Lead
 
 - [*BairesDev*](http://bairesdev.com/)
-- *Aug 2020 – Present*
+- *Aug 2020 – Dec 2021*
 
 As a leader I am responsible for helping the team's performance by managing tasks planning and assignments as well as ensuring code cohesion and efficiency.
 
 ### Software Engineer
 
 - [*BairesDev*](http://bairesdev.com/)
-- *Dec 2018 – Present*
+- *Dec 2018 – Dec 2021*
 
 As a core member of the services team I have been working on the development of
 solutions to the client. My major focus is to supoort and evolve a Node environment
