@@ -7,9 +7,9 @@ attach_path = "/resume.pdf"
 attach_name = "resume.pdf"
 +++
 
-My name is Jhonantans Moraes Rocha, I have been working as a Fullstack Developer since 2016 and as Team Lead since 2020.
-I've been implementing creative and efficient solutions on Node and AWS for 5 years now, and there's still a lot to learn on a daily basis.
-I've also been working on personal projects with Python and Rust, two fascinating languages that interest me a lot.
+My name is Jhonantans Moraes Rocha, I am a Senior Software Engineer with 8 years of experience.
+I am most proficient in implementing creative and efficient Back-End solutions built upon Node.js, AWS, Azure, Postgres, and MySQL. 
+I've also been working on personal projects with Python, Go, and Rust, fascinating languages that interest me a lot.
 
 <!-- more -->
 
@@ -17,38 +17,46 @@ I've also been working on personal projects with Python and Rust, two fascinatin
 
 ---
 
+### Software Engineer
+
+- [*Nearform*](http://nearform.com/)
+- *Jan 2022 – Present*
+
+As a Senior Software Engineer, I am responsible for building, deploying, and maintaining scalable projects for diverse clients.
+Some of the skills most used were Node.js, Postgres, AWS, and Azure.
+
 ### Team Lead
 
 - [*BairesDev*](http://bairesdev.com/)
-- *Aug 2020 – Present*
+- *Aug 2020 – Dec 2021*
 
-As a leader I am responsible for helping the team's performance by managing tasks, planning and assignments as well as ensuring code cohesion and efficiency.
+As a leader, I am responsible for helping the team's performance by managing tasks, planning, and assignments as well as ensuring code cohesion and efficiency.
 
 ### Software Engineer
 
 - [*BairesDev*](http://bairesdev.com/)
-- *Dec 2018 – Present*
+- *Dec 2018 – Sep 2020*
 
-As a core member of the services team I have been working on the development of
-solutions to the client. My major focus is to supoort and evolve a Node environment
-completely powered by AWS. Part of the structure runs as monolith and part as
-microservices, using Lambdas, SNS and SQS. It is also part of the work to develop
+As a core member of the services team, I have been working on the development of
+solutions for the client. My major focus is to support and evolve a Node environment
+completely powered by AWS. Part of the structure runs as a monolith and part as
+microservices, using Lambdas, SNS, and SQS. It is also part of the work to develop
 some React tools for internal usage.
 
 - Back-End: Node (Sails.js, Express)
 - Operation: Amazon AWS (EC2, S3, Lambda, SNS, SQS, Elasticache, RDS)
 - Front-End: React
 
-### Systems Analist
+### Systems Analyst
 
 - [*Metrópoles Mídia e Comunicação*](https://www.metropoles.com/)
 - *Feb 2018 - Nov 2018*
 
-Development and maintenance of a news communication systems. Major concerns were
-high availability, consistent quality and speed to final consumer.
+Development and maintenance of a Newspaper Content System. Major concerns were
+high availability, consistent quality, and speed to the end consumer.
 
 - Front-End: Bootstrap, Ionic 2, Angular 4, Vue.js, Pug, Stylus
-- Back-End: Wordpress, PHP and MySQL
+- Back-End: WordPress, PHP, and MySQL
 - Operation: Amazon AWS (EC2, S3, Lambda, RDS)
 
 ### Full Stack Developer
@@ -59,7 +67,7 @@ high availability, consistent quality and speed to final consumer.
 Acting in the development of hybrid applications for Android and iOS,
 implementation of web systems and creation and maintenance of websites and APIs.
 
-  - Back-End: ASP, Node and MySQL
+  - Back-End: ASP, Node, and MySQL
   - Front-End: HTML5/Javascript
   - Hybrid Application Tools: Intel XDK, Cordova
   - Frameworks: Angular 1 & 2, Ionic 1 & 2
@@ -123,8 +131,8 @@ for industrial and non-industrial environments. The points specially studied are
 - PLC Programming
 - Robotics
 - Programming
-- Mechanical Engenineering
-- Electrical Engenineering
+- Mechanical Engineering
+- Electrical Engineering
 - Electronics
 
 ## Skills & Proficiency
@@ -138,7 +146,7 @@ for industrial and non-industrial environments. The points specially studied are
 - C/C++ (System Programming) => **3 Years**
 - Angular & Ionic & Hybrid Mobile Apps (Cordova) => **3 Years**
 - HTML5 & CSS => **3 Years**
-- PHP & Wordpress => **1 Year**
+- PHP & WordPress => **1 Year**
 - .NET & ASP & VBA => **2 Years**
 - PLC: Ladder, Structured Text, Function Blocks => **1 Year**
 - RUST: **Learning**

@@ -14,7 +14,7 @@ deploy: build
 
 setup:
 	rm -rf public/ dist/
-	git worktree add dist gh-pages
+	git worktree add -f dist gh-pages
 
 pdf:
 	cd documents && \
