@@ -17,8 +17,7 @@ include-before:
 
 ---
 
-My name is Jhonantans Moraes Rocha, I am a Senior Software Engineer with 8 years of experience.
-I am most proficient in implementing creative and efficient Back-End solutions built upon Node.js, AWS, Azure, Postgres, and MySQL. 
+Hi, I am Jhon Rocha. I am a Software Engineer with eight years of experience building efficient and exciting applications, mainly on Back-End, using Javascript, Node.js, AWS, Azure, Postgres, and MySQL. 
 I've also been working on personal projects with Python, Go, and Rust, fascinating languages that interest me a lot.
 
 ## Experience
@@ -30,25 +29,22 @@ I've also been working on personal projects with Python, Go, and Rust, fascinati
 - [*Nearform*](http://nearform.com/)
 - *Jan 2022 – Present*
 
-As a Senior Software Engineer, I am responsible for building, deploying, and maintaining scalable projects for diverse clients.
-Some of the skills most used were Node.js, Postgres, AWS, and Azure.
+As a Senior Software Engineer, I build, deploy, and maintain scalable projects for diverse clients. The main project I worked on was about implementing pipelines on Azure DataFactory and FunctionApps to integrate a Postgres Datalake, two MSSQL databases, and Salesforce.
+Besides those, some of the technologies used were: Node.js, Typescript, Javascript, Python, and Azure.
 
 ### Team Lead
 
 - [*BairesDev*](http://bairesdev.com/)
 - *Aug 2020 – Dec 2021*
 
-As a leader, I am responsible for helping the team's performance by managing tasks, planning, and assignments as well as ensuring code cohesion and efficiency.
+As a leader, I am responsible for helping the team's performance by managing tasks, planning and assignments, and ensuring code cohesion and efficiency.
 
 ### Software Engineer
 
 - [*BairesDev*](http://bairesdev.com/)
 - *Dec 2018 – Sep 2020*
 
-As a core member of the services team, I have been working on the development of
-solutions for the client. My major focus is to support and evolve a Node environment
-completely powered by AWS. Part of the structure runs as a monolith and part as
-microservices, using Lambdas, SNS, and SQS. It is also part of the work to develop
+As a core member of the services team, I have been working on developing solutions for the client. My primary focus is to support and evolve a Node environment entirely powered by AWS. Part of the structure runs as a monolith and part as microservices, using Lambdas, SNS, and SQS. It is also part of the work to develop
 some React tools for internal usage.
 
 - Back-End: Node (Sails.js, Express)
@@ -86,8 +82,8 @@ implementation of web systems and creation and maintenance of websites and APIs.
 - *Sep 2014 – Aug 2016*
 
 I was responsible for the network area, handling communication between robot-to-robot
-and robot-to-computer. I also worked in the area of movement and locomotion,
-expanding the set of gestures and actions of the robot player. Finally, I
+and robot-to-computer. I also worked in movement and locomotion,
+expanding the robot player's set of gestures and actions. Finally, I
 developed the structure of the behavior state machine, implementing the reaction
 to events autonomously and elaborating new roles for the player.
 
@@ -112,8 +108,8 @@ Prizes:
 - [*University of Brasilia (UnB)*](http://unb.br/)
 - Jan 2014 - Dec 2016
 
-Development and application of Fuzzy controllers, based on the Takagi-Sugeno
-method (TS), to an industrial-level plant controlled by a Rockwell CLP.
+Development and application of Fuzzy controllers based on the Takagi-Sugeno
+method (TS) to an industrial-level plant controlled by a Rockwell CLP.
 
 Technologies used:
 
