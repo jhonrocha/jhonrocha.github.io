@@ -32,14 +32,14 @@ I also have experienced working using React, Python (Django) and Go (Gin) projec
 - *Mar 2024 – Present*
 
 As a senior engineer, I was responsible for optmizing and implementing new features for APIs and React screens. I was responsible for integrations with third-party APIs.
-Stackes used: GCP Kubernetes Engine, Serverless functions, PostgreSQL, Redis. 
+Stacks used: GCP Kubernetes Engine, Serverless functions, PostgreSQL, Redis. 
 
 ### Senior Full Stack Engineer
 
 - [*Toptal*](https://www.toptal.com/)
 - *Oct 2023 - Mar 2024*
 
-Working in client projects as a Senior Full-Stack Engineer, responsible for developing APIs, Shell Scripts and React Screens. Stackes used: Golang, Python, Django, Node.js, Azure and AWS.
+Working in client projects as a Senior Full-Stack Engineer, responsible for developing APIs, Shell Scripts and React Screens. Stacks used: Golang, Python, Django, Node.js, Azure and AWS.
 
 ### Senior Software Engineer
 
