@@ -1,6 +1,5 @@
 +++
 title = "Contact"
-date = 2021-06-17
 template = "single.html"
 +++
 
