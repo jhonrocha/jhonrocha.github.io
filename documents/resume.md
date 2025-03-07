@@ -5,6 +5,8 @@ geometry:
 - margin=2cm
 colorlinks: true
 header-includes:
+- \input{glyphtounicode}
+- \pdfgentounicode=1
 - \let\OldRule\rule
 - \renewcommand{\rule}[2]{\OldRule{\linewidth}{#2}}
 - \usepackage{titling}
@@ -17,17 +19,29 @@ include-before:
 
 ---
 
-Hi, I am Jhon Rocha. I am a Software Engineer with eight years of experience building efficient and exciting applications, mainly on Back-End, using Javascript, Node.js, AWS, Azure, Postgres, and MySQL. 
-I've also been working on personal projects with Python, Go, and Rust, fascinating languages that interest me a lot.
+Hi, I am Jhon Rocha. I am a Software Engineer with eight years of experience building efficient data intensive applications. My main area of work is Back-End, using Javascript, Node.js, AWS, Azure, GCP, Postgres, and MySQL. 
+I also have experienced working using React, Python (Django) and Go (Gin) projects.
 
 ## Experience
 
 ---
 
-### Software Engineer
+### Senior Software Engineer
 
-- [*Nearform*](http://nearform.com/)
-- *Jan 2022 – Present*
+- [*Method*](https://www.methodusa.com/)
+- *Mar 2024 – Present*
+Implementing new features and optmizing Node.js APIs on GCP Kubernetes Cluster, a Postgres DB and a Redis caching a layer. I was responsible for also integrating those new APIs to a React application, creating new screen and components. 
+
+### Full Stack Engineer
+
+- [*Toptal*](https://www.toptal.com/)
+- *Oct 2023 - Mar 2024*
+Working in projects using Golang, Python, Django, Azure and AWS.
+
+### Senior Software Engineer
+
+- [*Nearform*](https://www.nearform.com/)
+- *Jan 2022 – Oct 2023*
 
 As a Senior Software Engineer, I build, deploy, and maintain scalable projects for diverse clients. The main project I worked on was about implementing pipelines on Azure DataFactory and FunctionApps to integrate a Postgres Datalake, two MSSQL databases, and Salesforce.
 Besides those, some of the technologies used were: Node.js, Typescript, Javascript, Python, and Azure.
